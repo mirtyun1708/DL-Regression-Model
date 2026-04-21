@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Deepika S
+### Name:MIRTYUNJAY S
 
-### Register Number: 212223230039
+### Register Number: 212224040190
 
 
 ```
